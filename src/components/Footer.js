@@ -19,7 +19,7 @@ export const Footer = () => {
                         <p>About</p>
                     </a>
                     <a href="#content">
-                        <p>Connect</p>
+                        <p>Join</p>
                     </a>
                     {/* <a href="#">
                         <p>Career</p>
