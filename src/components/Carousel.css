@@ -9,10 +9,10 @@
     transition-duration: 1s;
   }
 
-  .carousel-container {
+  /* .carousel-container {
     margin-left: 5px;
     object-fit: cover;
-  }
+  } */
     
 .carousel-image{
   height: 105%;
