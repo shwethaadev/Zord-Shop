@@ -31,13 +31,14 @@ export const Footer = () => {
                 <div className="sb__footer-links-div">
                     <h4>Know about</h4>
                     <div className="knowabout">
-                          < a href="https://medium.com/bartersmartplace/decentralized-e-commerce-the-future-or-the-new-norm-be31c5162f03#:~:text=Decentralized%20Commerce%20(DeCo)%20allows%20users,can%20also%20block%20the%20transactions." target='_blank'
+                          <a href="https://medium.com/bartersmartplace/decentralized-e-commerce-the-future-or-the-new-norm-be31c5162f03#:~:text=Decentralized%20Commerce%20(DeCo)%20allows%20users,can%20also%20block%20the%20transactions." target='_blank' rel="noreferrer"
                               style={{
                                 // font: "Arial",
-                              }}> <p>e-commerce website</p></a>
+                              }}
+                          > <p>e-commerce website</p></a>
                       </div>
                       <div className="knowabout">
-                          < a href="" target='_blank'
+                          < a target='_blank'
                               style={{
                                 font: "Arial",
                               }}> <p>blockchain</p></a>
