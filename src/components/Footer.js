@@ -15,7 +15,7 @@ export const Footer = () => {
                 </div>
                 <div className="sb__footer-links-div">
                     <h4>Company</h4>
-                    <a href="#about">
+                    <a href="#about2">
                         <p>About</p>
                     </a>
                     <a href="#content">
