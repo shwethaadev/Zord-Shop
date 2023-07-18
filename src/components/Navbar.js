@@ -11,7 +11,7 @@ export const Navbar = () => {
         <div className="menu">
             <ul>
                 <li> <a className='menu-content' href="#home">HOME</a></li>
-                <li> <a className='menu-content' href="#about">ABOUT</a></li>
+                <li> <a className='menu-content' href="#about2">ABOUT</a></li>
                 <li> <a className='menu-content' href="#footer">HELP</a></li>
                 {/* <li> <a className='menu-content' href="#content">CONNECT</a></li> */}
             </ul>

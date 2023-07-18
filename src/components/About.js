@@ -25,18 +25,15 @@ const About = () => {
       
       </div>
       {/* <hr></hr> */}
-    {/* <div className='about-container'>
-    <div className='about-image'>
-      <img className='image' src='shirts.gif' alt='' />
+    <div className='about-container2' id='about2'>
+    <div className='about-image2'>
+      <img className='image' src='About-add.jpg' alt='' />
         </div>
-        <div className='about-text'>
-            <h1>
-            The Amazing e-commerce <br>
-            </br>platform that cares
-            <br></br> for everyone..! 
-            </h1>
+        <div className='about-text2'>
+          <h1>ABOUT: </h1>
+          <h3>Welcome to ZORDSHOP!!!By this, we are revolutionizing the way you<br /> shop online by leveraging the transparent technology of blockchain.<br /> Our mission is to provide a seamless shopping experience, where every<br /> transaction is recorded immutably, ensuring utmost integrity for our <br /> valued customers. Join us in embracing the future of ecommerce</h3>
           </div>
-  </div> */}
+  </div>
     </div>
   )
 }
