@@ -30,8 +30,12 @@ const About = () => {
       <img className='image' src='About-add.jpg' alt='' />
         </div>
         <div className='about-text2'>
-          <h1>ABOUT: </h1>
-          <h3>Welcome to ZORDSHOP!!!By this, we are revolutionizing the way you<br /> shop online by leveraging the transparent technology of blockchain.<br /> Our mission is to provide a seamless shopping experience, where every<br /> transaction is recorded immutably, ensuring utmost integrity for our <br /> valued customers. Join us in embracing the future of ecommerce</h3>
+          
+          <h3>Welcome to ZORDSHOP!!!By this, we are revolutionizing the way you<br />
+            shop online by leveraging the transparent technology of blockchain.<br />
+            Our mission is to provide a seamless shopping experience, where every<br />
+            transaction is recorded immutably, ensuring utmost integrity for our <br />
+            valued customers. Join us in embracing the future of ecommerce</h3>
           </div>
   </div>
     </div>

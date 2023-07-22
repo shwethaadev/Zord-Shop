@@ -1,4 +1,4 @@
-body {
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -14,15 +14,7 @@ code {
 .me-auto {
   margin-right: 0;
 }
-/* .one {
-  background-color: sienna;
-  float: left;
-}
-.two {
-  background-color: sandybrown;
-  float: left;
-}  */
 
 .navbar{
   justify-content:right;
-}
+} */

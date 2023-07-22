@@ -1,9 +1,10 @@
-.navbar{
+.navbarr{
     position: absolute;
     width: 100%;
     height: 75px;
     margin: auto;
-    z-index: 99;
+    z-index: 99; 
+  
   }
   
   .app-logo {
@@ -14,10 +15,16 @@
     margin-top: 1vh;
   }
 
-
+  .menu{
+    width: 550px;
+    float: left;
+    height: 70px;
+  
 .menu-content {
     padding: 10px;
     border-radius: 20px;
+
+    }
 }
 
 .icon{
@@ -36,12 +43,6 @@
     padding-left: 20px;
     float: left;
     padding-top: 24px;
-  }
-  
-  .menu{
-    width: 400px;
-    float: left;
-    height: 70px;
   }
   
   ul{
@@ -73,7 +74,7 @@
     color: white;
   }
 
-  .btn{
+  /* .btn{
     width: 120px;
     margin-left: 62px;
     margin-top: 27px;
@@ -89,7 +90,7 @@
     outline: none;
     cursor: pointer;
     transition: 0.2s ease-in-out;
-  }
+  } */
   /* .btn {
     width: 100%;
     height: 45px;

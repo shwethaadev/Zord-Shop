@@ -45,7 +45,7 @@ export const Carousel = () => {
               </div>
             {/* <img className="carousel-image" src="Zord2.jpeg" alt="Image 2"/>
             <img className="carousel-image" src="Zordshop.jpeg" alt="Image 3" /> */}
-              </div>
+            </div>
     </div>
   )
 }
