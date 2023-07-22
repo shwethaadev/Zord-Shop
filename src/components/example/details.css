@@ -1,0 +1,31 @@
+.box{
+    margin-top: 250px;
+
+    .styl{
+        height: 50px;
+        justify-content: center;
+        font-size: 26px;
+        font-weight: 500;
+        margin-left: 600px;
+        margin-top: 50px;
+        background:  #ddb2b2;
+        /* border: 2px solid #c86363; */
+        text-transform: uppercase;
+        transition: color 0.4s linear;
+        position: relative;
+    }
+
+    .text-area{
+        margin-left: 610px;
+        font-size: 22px;
+    }
+}
+
+/* background: none;
+border: 2px solid #c86363;
+text-transform: uppercase;
+padding: 12px 20px;
+min-width: 200px;
+margin: 10px;
+transition: color 0.4s linear;
+position: relative; */
